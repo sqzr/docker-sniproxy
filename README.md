@@ -1,5 +1,7 @@
 # Sniproxy Dockerfile
 
+**Allow all sites by default proxy, this insecurity**
+
 ## Base Docker Image
 ....
 
